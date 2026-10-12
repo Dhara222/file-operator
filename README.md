@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=PERSONAL+JOURNAL+MANAGER;Built+with+Python+%F0%9F%90%8D" alt="Animated Project Heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=36CFC9&center=true&vCenter=true&width=900&lines=PERSONAL+JOURNAL+MANAGER" alt="Personal Journal Manager" />
 
-### ✨ A Python File-Handling & OOP Project ✨
+<br>
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![File Handling](https://img.shields.io/badge/File_Handling-00C9A7?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-8A63D2?style=for-the-badge)
+<h3>✨ A Python File-Handling &amp; OOP Project ✨</h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FILE_HANDLING-00C9A7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-36CFC9?style=for-the-badge" />
 
 </div>
-
+<hr>
 ## 📚 Table of Contents
 
 - [🌟 Project Overview](#-project-overview)
