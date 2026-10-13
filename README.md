@@ -295,8 +295,7 @@ Thank you for using Personal Journal Manager. Goodbye!
 ---
 
 ## 🎬 Project Demo Video
-
-**Project Video Link:** `ADD_YOUR_PROJECT_VIDEO_LINK_HERE`
+(https://github.com/user-attachments/assets/34db55df-3153-472b-acb8-0fa16e3ccd54)
 
 ---
 
